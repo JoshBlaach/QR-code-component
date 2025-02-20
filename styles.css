@@ -13,7 +13,7 @@ body {
     padding: 0;
     min-height: 100vh;
 }
-.QR-code_card {
+main {
     border: 1px solid rgba(54, 133, 255, 1);
     color: black;
     height: 459px;
@@ -40,7 +40,7 @@ h1 {
     font-size: 20px;
     font-weight: bold;
 }
-.Text{
+h2{
     padding-top: 24px;
     padding-left: 16px;
     padding-right: 16px;
