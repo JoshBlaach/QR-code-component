@@ -1,0 +1,49 @@
+.attribution {
+    margin-top: 45px;
+    font-size: 11px; 
+    text-align: center;
+}
+.attribution a { color: hsl(228, 45%, 44%); }
+body {
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+.QR-code_card {
+    border: 1px solid rgba(54, 133, 255, 1);
+    color: black;
+    height: 459px;
+    width: 288px;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 16px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 40px;
+    background-color: white;
+
+}
+.qr-code {
+    height: 288px;
+    width: 288px;
+    border-radius: 10px;
+}
+.Title {
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.Text{
+    padding-top: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 12px;
+}
+
