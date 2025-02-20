@@ -33,7 +33,7 @@ body {
     width: 288px;
     border-radius: 10px;
 }
-.Title {
+h1 {
     padding-top: 24px;
     padding-left: 16px;
     padding-right: 16px;
