@@ -1,3 +1,4 @@
 # QR-code-component
 
-## this was a challenge from Front-end Mentor
+## Description
+this was a challenge from Front-end Mentor
